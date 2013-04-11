@@ -1,6 +1,6 @@
 mozillapersona.info
 ===================
 
-On trailhead to rule them all...
+One trailhead to rule them all...
 
 http://mozillapersona.info
